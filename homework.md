@@ -23,3 +23,6 @@ Duygu_Dilara (Duygu Kara, Dilara Ceyda Çetin)
 Ants (Serkan Karahan, Ceyhun Binal) 
 
 Bees (Burak Can Altunoğlu, Burak Yılmaz, Mehmet Anıl)
+
+# Strategy: Arbitrator Solution
+BMY (Beste Tekçeli, Mehmet Can Tekin, Yaren Mamuk
